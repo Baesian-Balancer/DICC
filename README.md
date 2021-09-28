@@ -1,2 +1,2 @@
-# desktop-interactive-can-controller
-dicc
+# Desktop Interactive Can Controller
+
